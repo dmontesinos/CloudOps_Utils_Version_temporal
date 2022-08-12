@@ -1,5 +1,5 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "key_dir": "database/config/private.key",
     "private_key_dir": "database/config/ldap.key"
 }
